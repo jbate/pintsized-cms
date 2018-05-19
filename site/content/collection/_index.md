@@ -1,6 +1,6 @@
 ---
 title: The glasses
-image: /img/products-jumbotron.jpg
+image: /img/pint-glass-row.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their

@@ -46,12 +46,15 @@
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^3.0.0",
-    "whatwg-fetch": "^1.0.0"
+    "whatwg-fetch": "^1.0.0",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
+    "grunt": "^1.0.2",
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "string": "^3.3.3",
     "svg-sprite-loader": "^0.1.2"
   }
 }

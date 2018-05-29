@@ -54,6 +54,13 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+      - file: "site/content/search/_index.md"
+        label: "Search Page"
+        name: "search"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/collection/_index.md"
         label: "Collection Page"
         name: "collection"

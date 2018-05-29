@@ -1,0 +1,3 @@
+<h1 class="f2 b lh-title mb2">Search results</h1>
+
+Search and ye shall find...
